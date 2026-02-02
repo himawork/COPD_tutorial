@@ -26,5 +26,13 @@ This tutorial is designed for healthcare professionals, students, and anyone int
 * OpenGWAS
     - bbj-a-103_P6_mr_dat.rda:
     - bbj-a-103_P6_mr_res.rda:
+    - ebi-a-GCST90018807_P6_mr_dat.rda:
+    - ebi-a-GCST90018807_P6_mr_res.rda:
+    - ukb-b-20464_P6_mr_dat.rda:
+    - ukb-b-20464_P6_mr_res.rda:
+    - reverse_bbj-a-103_mr_dat.rda:
+    - reverse_bbj-a-103_mr_res.rda:
+    - reverse_ebi-a-GCST90018587_mr_dat.rda:
+    - reverse_ebi-a-GCST90018587_mr_res.rda:
 
 ## Contributions
